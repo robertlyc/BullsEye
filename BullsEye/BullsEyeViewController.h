@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BullsEyeViewController : UIViewController
+@interface BullsEyeViewController : UIViewController <UIAlertViewDelegate>
 
 @property (nonatomic, weak) IBOutlet UISlider *slider;
 @property (nonatomic, weak) IBOutlet UILabel *targetLabel;
@@ -17,5 +17,6 @@
 
 - (IBAction)showAlert;
 - (IBAction)sliderMoved:(UISlider *)slider;
+- (IBAction)startOver;
 
 @end
