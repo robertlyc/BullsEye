@@ -22,6 +22,7 @@
 		E118B45D198A146D00FDD8CE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E118B45B198A146D00FDD8CE /* InfoPlist.strings */; };
 		E118B45F198A146D00FDD8CE /* BullsEyeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E118B45E198A146D00FDD8CE /* BullsEyeTests.m */; };
 		E1729DD1198D2985003867C7 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1729DD0198D2985003867C7 /* AboutViewController.m */; };
+		E19CBF9C198DD03A00A4A50C /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = E19CBF9B198DD03A00A4A50C /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		E118B45E198A146D00FDD8CE /* BullsEyeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BullsEyeTests.m; sourceTree = "<group>"; };
 		E1729DCF198D2985003867C7 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
 		E1729DD0198D2985003867C7 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		E19CBF9B198DD03A00A4A50C /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				E118B442198A146C00FDD8CE /* BullsEyeAppDelegate.h */,
 				E118B443198A146C00FDD8CE /* BullsEyeAppDelegate.m */,
 				E118B445198A146C00FDD8CE /* Main.storyboard */,
+				E19CBF9B198DD03A00A4A50C /* BullsEye.html */,
 				E118B448198A146C00FDD8CE /* BullsEyeViewController.h */,
 				E118B449198A146C00FDD8CE /* BullsEyeViewController.m */,
 				E1729DCF198D2985003867C7 /* AboutViewController.h */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E118B44C198A146C00FDD8CE /* Images.xcassets in Resources */,
+				E19CBF9C198DD03A00A4A50C /* BullsEye.html in Resources */,
 				E118B43E198A146C00FDD8CE /* InfoPlist.strings in Resources */,
 				E118B447198A146C00FDD8CE /* Main.storyboard in Resources */,
 			);
